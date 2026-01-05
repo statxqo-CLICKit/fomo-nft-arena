@@ -1,0 +1,17 @@
+fomo-nft-arena/
+│
+├─ index.html             # main HTML entry point
+├─ README.md              # project description and instructions
+├─ LICENSE                # your chosen license (MIT or GPL-3.0)
+├─ .gitignore             # ignore node_modules, env files, etc.
+├─ assets/                # images, icons, videos
+│    ├─ logo.png
+│    ├─ hero-bg.jpg
+│    └─ paragons/         # individual NFT images
+├─ css/
+│    └─ style.css
+├─ js/
+│    └─ app.js            # main JS logic
+├─ contracts/             # smart contracts (solidity)
+│    └─ ParagonNFT.sol
+└─ packages.json          # if you’re using npm for packages
